@@ -1,1 +1,2 @@
 this is a second file
+just used vi to open and press i to edit file in terminal
